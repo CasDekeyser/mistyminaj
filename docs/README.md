@@ -16,4 +16,4 @@ Maak een eenvoudige website bestaande uit een html-pagina, een css-bestand en ee
 
 Kies zelf een thema. Maak bijvoorbeeld een webpagina over één van je hobby's en zoek een bijpassende afbeelding op internet.
 
-Plaats vervolgens jouw website online. Volg hiervoor de instructies op [Publiceren via GitHub](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website?retiredLocale=nl#publishing_via_github).
+Plaats vervolgens jouw website online. Volg hiervoor de instructies op [Publishing via GitHub](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website#publishing_via_github).
